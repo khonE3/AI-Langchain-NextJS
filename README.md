@@ -56,13 +56,3 @@ npm start
 - Tailwind CSS (ถ้าเลือก)
 - และ dependencies อื่นๆ ที่จำเป็น
 
-## Set Port ในกรณีรันไม่ได้
-
-```bash
-"scripts": {
-    "dev": "next dev -p 4000",
-    "build": "next build",
-    "start": "next start -p 5000",
-    "lint": "eslint"
-  }
-```
